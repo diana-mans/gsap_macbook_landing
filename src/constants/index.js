@@ -6,3 +6,26 @@ export const navLinks = [
     {label: "Vision"},
     {label: "AirPods"},
 ]
+
+export const MODEL_SWITCHER_ANIMATION_DURATION = 1;
+export const MODEL_SWITCHER_OFFSET_DISTANCE = 5;
+
+
+export const noChangeParts = [
+    "Object_84",
+    "Object_37",
+    "Object_34",
+    "Object_12",
+    "Object_80",
+    "Object_35",
+    "Object_36",
+    "Object_13",
+    "Object_125",
+    "Object_76",
+    "Object_33",
+    "Object_42",
+    "Object_58",
+    "Object_52",
+    "Object_21",
+    "Object_10",
+]
